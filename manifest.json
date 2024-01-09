@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "Moto Road Rash 3D is a motorracing game packed with excitement and action. Race through the city on your motorbike. There are four game modes: Career, Endless, Time Trial, and Free Ride. You can choose between motor racing events set in the UK and in Turkey. Each country has an expansive level map full of fun levels to complete. Participate in each race to make money and unlock upgrades for your motorbike, or buy a new and more powerful bike!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Moto Road Rash:3d",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Moto Road Rash:3d",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Moto Road Rash:3d",
+      "url": "",
+      "description": "Moto Road Rash 3D is a motorracing game packed with excitement and action. Race through the city on your motorbike. There are four game modes: Career, Endless, Time Trial, and Free Ride. You can choose between motor racing events set in the UK and in Turkey. Each country has an expansive level map full of fun levels to complete. Participate in each race to make money and unlock upgrades for your motorbike, or buy a new and more powerful bike!"
+    }
+  ]
+}
